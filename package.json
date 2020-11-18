@@ -61,7 +61,7 @@
     "nock": "11.4.0",
     "nyc": "14.1.1",
     "request-promise-native": "1.0.7",
-    "semantic-release": "15.13.24"
+    "semantic-release": "17.2.3"
   },
   "snyk": true,
   "lint-staged": {
